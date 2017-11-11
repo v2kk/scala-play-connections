@@ -1,0 +1,3 @@
+GET /static/async                   controllers.StaticController.getAsyncSeq()
+GET /static/sync                    controllers.StaticController.getSyncSeq()
+GET /static/async-blocking          controllers.StaticController.getAsyncSeqWithBlocking()
