@@ -1,7 +1,7 @@
 import java.time.Clock
 
 import com.google.inject.AbstractModule
-import services.{StaticService, StaticServiceImpl}
+import services.{BlockingService, BlockingServiceImpl, StaticService, StaticServiceImpl}
 
 /**
   * This class is a Guice module that tells Guice how to bind several
@@ -21,5 +21,6 @@ class Module extends AbstractModule {
 
         // repositories binding
         bind(classOf[StaticService]).to(classOf[StaticServiceImpl])
+        bind(classOf[BlockingService]).to(classOf[BlockingServiceImpl])
     }
 }

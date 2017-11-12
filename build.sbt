@@ -7,9 +7,9 @@ scalaVersion := "2.12.4"
 packageName in Universal := s"${name.value}"
 
 lazy val root = (project in file("."))
-    .enablePlugins(PlayScala, PlayNettyServer)
-    .disablePlugins(PlayAkkaHttpServer)
-//    .enablePlugins(PlayScala)
+//    .enablePlugins(PlayScala, PlayNettyServer)
+//    .disablePlugins(PlayAkkaHttpServer)
+    .enablePlugins(PlayScala)
 PlayKeys.devSettings := Seq("play.server.http.port" -> "9001")
 
 resolvers += "typesafe" at "http://repo.typesafe.com/typesafe/releases/"
