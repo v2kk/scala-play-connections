@@ -1,0 +1,6 @@
+GET /static/async                   controllers.StaticController.getAsyncSeq()
+GET /static/sync                    controllers.StaticController.getSyncSeq()
+GET /static/async-blocking          controllers.StaticController.getAsyncSeqWithBlocking()
+
+GET /static/send                          controllers.StaticController.send(key: String)
+GET /static/send-sync                     controllers.StaticController.sendSync(key: String)

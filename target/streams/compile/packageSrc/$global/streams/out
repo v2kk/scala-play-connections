@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /home/vinhdp/workspaces/ftel/play-concurrent-connections/target/scala-2.12/play-concurrent-connections_2.12-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	utils/Contexts.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/utils/Contexts.scala[0m
+[0m[[0mdebug[0m] [0m	services/StaticService.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/services/StaticService.scala[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/conf/routes[0m
+[0m[[0mdebug[0m] [0m	application_bk.conf[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/conf/application_bk.conf[0m
+[0m[[0mdebug[0m] [0m	controllers/CommonFeature.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/controllers/CommonFeature.scala[0m
+[0m[[0mdebug[0m] [0m	controllers/StaticController.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/controllers/StaticController.scala[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	utils/RedisUtils.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/utils/RedisUtils.scala[0m
+[0m[[0mdebug[0m] [0m	services/BlockingService.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/services/BlockingService.scala[0m
+[0m[[0mdebug[0m] [0m	utils/AppConfig.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/utils/AppConfig.scala[0m
+[0m[[0mdebug[0m] [0m	Module.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/vinhdp/workspaces/ftel/play-concurrent-connections/app/Module.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
